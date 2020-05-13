@@ -1,6 +1,6 @@
 [submodule "BasicBox"]
 	path = BasicBox
-	url = ./BasicBox/
+	url = https://github.com/rizoto/BasicBox.git
 [submodule "TradingToolBox"]
 	path = TradingToolBox
 	url = ./TradingToolBox
