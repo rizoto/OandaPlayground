@@ -3,13 +3,13 @@
 	url = https://github.com/rizoto/BasicBox.git
 [submodule "TradingToolBox"]
 	path = TradingToolBox
-	url = ./TradingToolBox
+	url = https://github.com/rizoto/TradingToolBox.git
 [submodule "cmdScalp"]
 	path = cmdScalp
-	url = ./cmdScalp
+	url = https://github.com/rizoto/cmdScalp.git
 [submodule "parser"]
 	path = parser
-	url = ./parser
+	url = https://github.com/rizoto/parser.git
 [submodule "ta-lib"]
 	path = ta-lib
-	url = ./ta-lib
+	url = https://github.com/rizoto/ta-lib.git
