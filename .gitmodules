@@ -1,0 +1,15 @@
+[submodule "BasicBox"]
+	path = BasicBox
+	url = ./BasicBox/
+[submodule "TradingToolBox"]
+	path = TradingToolBox
+	url = ./TradingToolBox
+[submodule "cmdScalp"]
+	path = cmdScalp
+	url = ./cmdScalp
+[submodule "parser"]
+	path = parser
+	url = ./parser
+[submodule "ta-lib"]
+	path = ta-lib
+	url = ./ta-lib
